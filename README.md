@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/odesoftami-mydeepseek-electron-banner.png"
+       alt="Odesoftami QA Monitor — Browser QA and Monitoring Tool"
+       width="100%">
+</p>
+
 # MyDeepSeek
 
 A standalone DeepSeek desktop application for macOS, built with Electron.
